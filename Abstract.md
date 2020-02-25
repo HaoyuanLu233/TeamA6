@@ -1,0 +1,1 @@
+We aim to design and optimize a plant for the production of 3-chloro-1-propene (allyl chloride) through the thermal chlorination of propylene at high temperature and relatively low pressure in a fluidized bed reactor. 
